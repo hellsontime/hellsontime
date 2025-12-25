@@ -39,9 +39,3 @@
 
 ---
 
-### ✨ Fun Fact
-
-☕ I write better code after two cups of coffee and a good metal playlist. Preferably in dark mode.
-
----
-
